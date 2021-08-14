@@ -128,9 +128,6 @@ nav{
   background-image: linear-gradient(to right, #60dccb 0%, #00a3f9 100%);
 }
 
-
-
-
 .title{
   margin: 6rem;
   text-align: center;
@@ -168,4 +165,12 @@ textarea{
   border-radius: 10px;
   padding: 1rem;
   border: 1px solid #5fdbcc;
+}
+
+.icons{
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  cursor: pointer;
 }
